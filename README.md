@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @Adityakadam7281
-- 👀 I’m interested in web development and machine learning
-- 🌱 I’m currently learning web development
+- 👀 A full stack web developer and machine learning enthusiast
+- 🌱 I’m currently learning deep into field of web development
 - 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me aditya_kadam._ on Instagram
+- 📫 How to reach me aditya_kadam._ on Instagram 
 
 <!---
 Adityakadam7281/Adityakadam7281 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
